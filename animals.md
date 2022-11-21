@@ -3,6 +3,9 @@ Rat
 Snake
 Elephant
 Cat
+Pigeon
+Flea
+Cow
 Dog
 Bunny
 Eagle
